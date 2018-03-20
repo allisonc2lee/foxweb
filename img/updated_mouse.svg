@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 125.24">
+  <defs>
+    <style>
+      .a, .c, .d, .e { fill: none; stroke-width: 3px; } .a, .c { stroke: #edeeee; } .a, .e { stroke-miterlimit: 10; } .b { font-size: 7.25px; font-family: basictitlefont, basic title font; } .c, .d, .e { stroke-linecap: round; } .c, .d { stroke-linejoin: round; } .d { stroke: #d8d8d8; } .e { stroke: #cacccc; }
+    </style>
+  </defs>
+  <path class="a" d="M24 11.32a22.5 22.5 0 0 1 22.5 22.5v34.5a12 12 0 0 1-12 12h-21a12 12 0 0 1-12-12v-34.5A22.5 22.5 0 0 1 24 11.32z"/>
+  <text class="b" transform="rotate(-47.73 20.352 1.098)">
+    S
+  </text>
+  <text class="b" transform="rotate(-39.65 22 -4.61)">
+    C
+  </text>
+  <text class="b" transform="matrix(.86 -.52 .52 .86 10.57 10.89)">
+    R
+  </text>
+  <text class="b" transform="rotate(-22.81 29.41 -28.79)">
+    O
+  </text>
+  <text class="b" transform="rotate(-14.07 38.91 -60.61)">
+    L
+  </text>
+  <text class="b" transform="matrix(1 -.1 .1 1 19.76 7.02)">
+    L
+  </text>
+  <text class="b" transform="translate(23.37 6.74)">
+    
+  </text>
+  <text class="b" transform="rotate(8.5 -32.27 183.92)">
+    D
+  </text>
+  <text class="b" transform="rotate(16.75 -9.67 105.9)">
+    O
+  </text>
+  <text class="b" transform="rotate(26.29 -.81 74.92)">
+    W
+  </text>
+  <text class="b" transform="rotate(35.9 2.86 61.72)">
+    N
+  </text>
+  <g>
+    <path class="c" d="M12 88.42l7.32 6.9a6.93 6.93 0 0 0 9.8-.3L36 87.68"/>
+    <path class="d" d="M12 114.98l7.32 6.9a6.92 6.92 0 0 0 9.8-.3l6.88-7.32"/>
+  </g>
+  <path class="e" d="M24 33.82v-11"/>
+</svg>

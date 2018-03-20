@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 100.86">
+  <defs>
+    <style>
+      .a, .b { fill: none; stroke: #edeeee; stroke-width: 3px; } .a { stroke-miterlimit: 10; } .b { stroke-linecap: round; stroke-linejoin: round; }
+    </style>
+  </defs>
+  <path class="a" d="M24 1.5A22.5 22.5 0 0 1 46.5 24v34.5a12 12 0 0 1-12 12h-21a12 12 0 0 1-12-12V24A22.5 22.5 0 0 1 24 1.5z"/>
+  <path class="b" d="M24 24V13M11.97 78.59l7.32 6.89a6.92 6.92 0 0 0 9.79-.3l6.89-7.31m-24 12.72l7.32 6.89a6.92 6.92 0 0 0 9.79-.3l6.89-7.31"/>
+</svg>

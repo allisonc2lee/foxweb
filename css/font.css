@@ -1,0 +1,118 @@
+#site_id {
+    font-family: 'Anton', sans-serif;
+    color:#fff;
+    font-size:1.3em;
+}
+
+
+
+h1 {
+    font-family: 'Archivo Black', sans-serif;
+    text-align: center;
+}
+
+
+.section2_main h1 {
+    font-size: 1.5em;
+}
+
+
+.section3 h1 {
+    font-size: 5.5vw;
+    text-align: center;
+    align-items: center;
+}
+
+
+
+p { font-family: 'Roboto', sans-serif; font-size:1.15em; font-weight: 300; line-height: 150%;}
+
+.featured_text {
+    font-family: 'Covered By Your Grace', cursive;
+    font-size:1.5em;
+    text-transform: uppercase;
+    color:#fff308;
+}
+
+.p_first {
+    font-weight: 300;
+    font-size: 1.35em;
+}
+
+
+
+.section2 .guide {
+    -webkit-margin-after: 1.5em;
+}
+
+
+
+.section6 div {
+    font-family: 'Roboto', sans-serif;font-size:0.7em;
+}
+
+.content p {
+    margin-top: 0;
+}
+
+
+#canada{
+    font-family: 'Covered By Your Grace', cursive;
+    color:#fff308;
+}
+
+#pop_header {
+
+    text-align: center;
+}
+
+#first_header {
+    margin-top: 12vw;
+    font-family: 'Covered By Your Grace', cursive;
+    font-size: 7vw;
+    margin-bottom: 0;
+}
+
+#of {
+    font-size:1.4em;
+    font-family: 'Covered By Your Grace', cursive;
+}
+
+#second_header {
+    font-family: 'Anton', sans-serif;
+    margin-top:0.5em;
+    color:#fff308;
+}
+
+
+/*section4*/
+
+
+
+
+/*section5*/
+
+.section5 p {
+    text-align: center;
+    padding:0;
+    -webkit-margin-before: 0;
+    -webkit-margin-after: 0;
+}
+
+
+#stop {
+    color:#f14f26;
+}
+
+/*footer*/
+
+footer p {
+    font-family: 'Roboto', sans-serif;
+    opacity: 0.3;
+}
+
+
+
+
+
+

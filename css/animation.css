@@ -1,0 +1,129 @@
+/*intro fox*/
+.intro_a { fill: #f14f26; } 
+.intro_b { fill: #c4432a; } 
+.intro_c { fill: #edeeee; } 
+.intro_d { fill: #702112; } 
+.intro_e { fill: #932519; } 
+.intro_f { fill: #210906; }
+
+
+
+/*mouse down*/
+.mouse_a, .mouse_b, .mouse_c, .mouse_d { fill: none; stroke-width: 3px; } 
+.mouse_a, .mouse_b { stroke: #edeeee; } 
+.mouse_a, .mouse_d { stroke-miterlimit: 10; } 
+.mouse_b, .mouse_c, .mouse_d { stroke-linecap: round; } 
+.mouse_b, .mouse_c { stroke-linejoin: round; } 
+.mouse_c { stroke: #d8d8d8; } 
+.mouse_d { stroke: #cacccc; }
+
+
+#mouseDown {
+    width:35px;
+}
+
+
+/*section1 animation*/
+.name_fox_a, .name_fox_b { fill: none; stroke-linecap: round; stroke-linejoin: round; stroke-width: 3px; } 
+.name_fox_a { stroke: #f9d230; } 
+.name_fox_b { stroke: #eac93d; } 
+.name_fox_c { fill: #d3d3d3; opacity: 0.4; } 
+.name_fox_d { fill: #f14f26; } 
+.name_fox_e { fill: #c4432a; } 
+.name_fox_f { fill: #edeeee; } 
+.name_fox_g { fill: #ddd; } 
+.name_fox_h { fill: #702112; } 
+.name_fox_i { fill: #5e1912; } 
+.name_fox_j { fill: #932519; } 
+.name_fox_k { fill: #210906; }
+
+/*OOPS*/
+.st11{font-family: 'Indie Flower', cursive;;}
+.st12{font-size:25px;}
+
+/*map*/
+
+.canada_map_green { fill: #008441; } 
+.aberta { fill: #46aa6f; } 
+.saskatchewan { fill: #56c181; }
+
+#canada_map {
+    width:100%;
+}
+
+/*land uses */
+.land_a { fill: #aadab5; } 
+.land_b { fill: #80ca95; } 
+.land_c { fill: #a1cfa9; } 
+.land_d { fill: #5cbd7e; } 
+.land_e { fill: #ede72e; } 
+.land_f { fill: #b74113; } 
+.land_g { fill: #c9c8c7; } 
+.land_h { fill: #065472; } 
+.land_i { fill: #898785; } 
+.land_j { fill: #282827; } 
+.land_k { fill: #736147; } 
+.land_l { fill: #92d99f; } 
+.land_m { fill: #78c595; } 
+.land_n { fill: #9fe2a8; } 
+.land_o { fill: #d8d8d8; } 
+.land_p { fill: #c63a1e; } 
+.land_q { fill: #772017; } 
+.land_r { fill: #561411; } 
+.land_s { fill: #b72f0f; } 
+.land_t { fill: #512820; } 
+.land_u { fill: #666; } 
+.land_v { fill: #8c8c88; } 
+.land_w { fill: #3d3d3b; }
+
+/*fox community*/
+.a { fill: #b75441; } 
+.b { fill: #aa3424; } 
+.c { fill: #edeeee; } 
+.d { fill: #ddd; } 
+.e { fill: #702112; } 
+.f { fill: #5e1912; } 
+.g { fill: #932519; } 
+.h { fill: #210906; } 
+.i { fill: #e09a46; } 
+.j { fill: #c47206; } 
+.k { fill: #efa329; } 
+.l { fill: #bf7e1f; } 
+.m { fill: #f14f26; } 
+.n { fill: #c4432a; } 
+.o { fill: #e57e55; } 
+.p { fill: #c66b4b; } 
+.q { fill: #cc4; } 
+.r { fill: #afa13c; }
+
+
+/*tec hover animation */
+.tec_uses_img a img:hover {
+    animation: fade 0.6s ease forwards;
+}
+
+@keyframes fade {
+    from {opacity: 1;}
+    to {opacity: 0.5;}
+}
+
+/*ref button animation there :> */
+
+
+/*https://codepen.io/kavendish/pen/gJric?editors=1100*/
+#report_link {
+	transition: all 450ms cubic-bezier(0.390, 0.500, 0.150, 1.360);
+	display: block;
+	margin: 2em auto;
+	padding: 1.2em 1.5em;
+	text-decoration: none;
+	border-radius: 4px;
+	color: rgba(0, 0, 0, 0.7);
+	box-shadow: rgba(0, 0, 0, 0.7) 0 0px 0px 2px inset;
+}
+
+#report_link:hover {
+	color: #ff8d24;
+	/*box-shadow: rgba(30, 22, 54, 0.7) 0 0px 0px 40px inset;*/
+	box-shadow: rgba(0, 0, 0, 0.7) 0 0px 0px 40px inset;
+}
